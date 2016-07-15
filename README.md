@@ -1,3 +1,5 @@
+This is my fork with the solution I've developed for this test. For simplicity I've already merged my work into the master branch.
+
 # Scala.js IR-based Calculator
 
 This repository is a toy project for developers who want to get familiar with the Scala.js IR.
